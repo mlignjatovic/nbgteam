@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+}
+form.nbg-form textarea#nbg-post {
+  min-height: 250px;
+}
+article#nbg-article div.nbg-large-images figure img {
+    height: 280px;
+}
+section#nbg-post-section div.nbg-small-images div img {
+    height: 140px;
+}
